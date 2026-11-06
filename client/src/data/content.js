@@ -8,7 +8,7 @@ export const profile = {
   location: "Lahore, PK — working worldwide",
   socials: [
     { label: "GitHub", href: "https://github.com/devRanaUsman" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/creator/monetization/" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/rana-muhammad-usman1/" },
     // { label: "", href: "https://kaggle.com/" },
     // { label: "X / Twitter", href: "https://x.com/" },
   ],
