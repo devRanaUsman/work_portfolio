@@ -1,0 +1,4 @@
+[     401ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:17230
+[     722ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[    9559ms] [ERROR] Access to fetch at 'https://portfolio-fs-ds.onrender.com/api/contact' from origin 'http://localhost:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3000/:0
+[    9560ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://portfolio-fs-ds.onrender.com/api/contact:0

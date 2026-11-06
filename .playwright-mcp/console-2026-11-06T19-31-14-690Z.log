@@ -1,0 +1,15 @@
+[     432ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:17230
+[     725ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[   18832ms] [ERROR] Access to fetch at 'https://portfolio-fs-ds.onrender.com/api/contact' from origin 'http://localhost:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:3000/:0
+[   18833ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://portfolio-fs-ds.onrender.com/api/contact:0
+[   18833ms] [ERROR] Contact submit error: TypeError: Failed to fetch
+    at submit (http://localhost:3000/src/components/Contact.jsx:57:22)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:3142:11)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:3162:14)
+    at invokeGuardedCallback (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:3201:32)
+    at invokeGuardedCallbackAndCatchFirstError (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:3214:26)
+    at executeDispatch (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:6134:4)
+    at processDispatchQueueItemsInOrder (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:6148:5)
+    at processDispatchQueue (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:6156:5)
+    at dispatchEventsForPlugins (http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:6164:4)
+    at http://localhost:3000/node_modules/.vite/deps/react-dom-CVL17MaK.js?v=17feaeb9:6255:12 @ http://localhost:3000/node_modules/.vite/deps/react-three-fiber.esm-C7bHWPYq.js?v=17feaeb9:42471

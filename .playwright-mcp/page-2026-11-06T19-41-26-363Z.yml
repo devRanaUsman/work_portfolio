@@ -1,0 +1,351 @@
+- generic [ref=f1e3]:
+  - banner [ref=f1e7]:
+    - generic [ref=f1e8]:
+      - link "RMU." [ref=f1e9]:
+        - /url: "#top"
+      - navigation "Primary" [ref=f1e10]:
+        - link "About" [ref=f1e11]:
+          - /url: "#about"
+        - link "Skills" [ref=f1e12]:
+          - /url: "#skills"
+        - link "Work" [ref=f1e13]:
+          - /url: "#work"
+        - link "Timeline" [ref=f1e14]:
+          - /url: "#timeline"
+        - link "Contact" [ref=f1e15]:
+          - /url: "#contact"
+  - main [ref=f1e16]:
+    - generic [ref=f1e17]:
+      - generic [ref=f1e20]:
+        - paragraph [ref=f1e21]: Portfolio — 2026
+        - heading [level=1] [ref=f1e22]:
+          - generic "Full-Stack" [ref=f1e353]:
+            - generic [ref=f1e355]:
+              - generic [ref=f1e356]: F
+              - generic [ref=f1e357]: u
+              - generic [ref=f1e358]: l
+              - generic [ref=f1e359]: l
+              - generic [ref=f1e360]: "-"
+              - generic [ref=f1e361]: S
+              - generic [ref=f1e362]: t
+              - generic [ref=f1e363]: a
+              - generic [ref=f1e364]: c
+              - generic [ref=f1e365]: k
+          - generic "× Data Science" [ref=f1e366]:
+            - generic [aria-hidden] [ref=f1e367]:
+              - generic [ref=f1e368]: ×
+              - generic [ref=f1e370]:
+                - generic [ref=f1e371]: D
+                - generic [ref=f1e372]: a
+                - generic [ref=f1e373]: t
+                - generic [ref=f1e374]: a
+              - generic [ref=f1e375]:
+                - generic [ref=f1e376]: S
+                - generic [ref=f1e377]: c
+                - generic [ref=f1e378]: i
+                - generic [ref=f1e379]: e
+                - generic [ref=f1e380]: "n"
+                - generic [ref=f1e381]: c
+                - generic [ref=f1e382]: e
+        - generic [ref=f1e25]:
+          - paragraph [ref=f1e26]: Rana Muhammad Usman. I build production web systems and the models behind them. MERN systems on one side, Python and machine learning on the other — one engineer for the whole pipeline.
+          - link "View work" [ref=f1e27]:
+            - /url: "#work"
+            - text: View work
+            - generic [aria-hidden] [ref=f1e28]: ↓
+      - generic [ref=f1e29]: Scroll
+    - generic [ref=f1e32]:
+      - generic [ref=f1e33]:
+        - paragraph [ref=f1e35]: About
+        - generic [ref=f1e36]:
+          - heading "Most teams hire two people for this. A web engineer to ship the product, and a data scientist to make it smart. I close that gap — the model and the interface are designed together, so neither is an afterthought." [level=2] [ref=f1e37]:
+            - generic [aria-hidden] [ref=f1e38]:
+              - generic [ref=f1e39]: Most
+              - generic [ref=f1e40]: teams
+              - generic [ref=f1e41]: hire
+              - generic [ref=f1e42]: two
+              - generic [ref=f1e43]: people
+              - generic [ref=f1e44]: for
+              - generic [ref=f1e45]: this.
+              - generic [ref=f1e46]: A
+              - generic [ref=f1e47]: web
+              - generic [ref=f1e48]: engineer
+              - generic [ref=f1e49]: to
+              - generic [ref=f1e50]: ship
+              - generic [ref=f1e51]: the
+              - generic [ref=f1e52]: product,
+              - generic [ref=f1e53]: and
+              - generic [ref=f1e54]: a
+              - generic [ref=f1e55]: data
+              - generic [ref=f1e56]: scientist
+              - generic [ref=f1e57]: to
+              - generic [ref=f1e58]: make
+              - generic [ref=f1e59]: it
+              - generic [ref=f1e60]: smart.
+              - generic [ref=f1e61]: I
+              - generic [ref=f1e62]: close
+              - generic [ref=f1e63]: that
+              - generic [ref=f1e64]: gap
+              - generic [ref=f1e65]: —
+              - generic [ref=f1e66]: the
+              - generic [ref=f1e67]: model
+              - generic [ref=f1e68]: and
+              - generic [ref=f1e69]: the
+              - generic [ref=f1e70]: interface
+              - generic [ref=f1e71]: are
+              - generic [ref=f1e72]: designed
+              - generic [ref=f1e73]: together,
+              - generic [ref=f1e74]: so
+              - generic [ref=f1e75]: neither
+              - generic [ref=f1e76]: is
+              - generic [ref=f1e77]: an
+              - generic [ref=f1e78]: afterthought.
+          - paragraph [ref=f1e79]: Based in Lahore, PK — working worldwide. Two years across agencies, an analytics firm, and independent consulting — always at the seam where production software meets applied machine learning.
+      - generic [ref=f1e80]:
+        - generic [ref=f1e81]:
+          - paragraph [ref=f1e82]: 2+
+          - paragraph [ref=f1e83]: Years shipping
+        - generic [ref=f1e84]:
+          - paragraph [ref=f1e85]: 20+
+          - paragraph [ref=f1e86]: Projects developed
+        - generic [ref=f1e87]:
+          - paragraph [ref=f1e88]: "7"
+          - paragraph [ref=f1e89]: ML models in production
+        - generic [ref=f1e90]:
+          - paragraph [ref=f1e91]: 99.9%
+          - paragraph [ref=f1e92]: Avg. uptime maintained
+    - generic [ref=f1e93]:
+      - generic [ref=f1e94]:
+        - paragraph [ref=f1e96]: Capabilities
+        - heading "Two disciplines, one pipeline." [level=2] [ref=f1e98]
+      - generic [ref=f1e99]:
+        - generic [ref=f1e100]:
+          - generic [ref=f1e101]:
+            - heading "Web Engineering" [level=3] [ref=f1e102]
+            - generic [ref=f1e103]: MERN
+          - paragraph [ref=f1e104]: Interfaces, APIs, and the infrastructure that keeps them fast.
+          - list [ref=f1e105]:
+            - listitem [ref=f1e106]:
+              - generic [ref=f1e107]:
+                - generic [ref=f1e108]: React / Next.js
+                - generic [ref=f1e109]: "95"
+            - listitem [ref=f1e111]:
+              - generic [ref=f1e112]:
+                - generic [ref=f1e113]: Node.js / Express
+                - generic [ref=f1e114]: "92"
+            - listitem [ref=f1e116]:
+              - generic [ref=f1e117]:
+                - generic [ref=f1e118]: MongoDB / Mongoose
+                - generic [ref=f1e119]: "90"
+            - listitem [ref=f1e121]:
+              - generic [ref=f1e122]:
+                - generic [ref=f1e123]: TypeScript
+                - generic [ref=f1e124]: "88"
+            - listitem [ref=f1e126]:
+              - generic [ref=f1e127]:
+                - generic [ref=f1e128]: GSAP / WebGL / R3F
+                - generic [ref=f1e129]: "85"
+            - listitem [ref=f1e131]:
+              - generic [ref=f1e132]:
+                - generic [ref=f1e133]: REST / GraphQL / WebSockets
+                - generic [ref=f1e134]: "87"
+        - generic [ref=f1e136]:
+          - generic [ref=f1e137]:
+            - heading "Data Science & ML" [level=3] [ref=f1e138]
+            - generic [ref=f1e139]: PY / ML
+          - paragraph [ref=f1e140]: From raw data to models that earn their keep in production.
+          - list [ref=f1e141]:
+            - listitem [ref=f1e142]:
+              - generic [ref=f1e143]:
+                - generic [ref=f1e144]: Python
+                - generic [ref=f1e145]: "94"
+            - listitem [ref=f1e147]:
+              - generic [ref=f1e148]:
+                - generic [ref=f1e149]: Pandas / NumPy
+                - generic [ref=f1e150]: "92"
+            - listitem [ref=f1e152]:
+              - generic [ref=f1e153]:
+                - generic [ref=f1e154]: scikit-learn
+                - generic [ref=f1e155]: "90"
+            - listitem [ref=f1e157]:
+              - generic [ref=f1e158]:
+                - generic [ref=f1e159]: TensorFlow / PyTorch
+                - generic [ref=f1e160]: "82"
+            - listitem [ref=f1e162]:
+              - generic [ref=f1e163]:
+                - generic [ref=f1e164]: SQL / Data Pipelines
+                - generic [ref=f1e165]: "88"
+            - listitem [ref=f1e167]:
+              - generic [ref=f1e168]:
+                - generic [ref=f1e169]: Visualization (Matplotlib, D3)
+                - generic [ref=f1e170]: "86"
+    - generic [ref=f1e172]:
+      - generic [ref=f1e173]:
+        - paragraph [ref=f1e175]: Selected work
+        - heading "Products on the surface, models underneath." [level=2] [ref=f1e177]
+      - generic [ref=f1e178]:
+        - generic [ref=f1e179]:
+          - heading "Web — MERN platforms" [level=3] [ref=f1e180]
+          - generic [ref=f1e182]: 3 projects
+        - generic [ref=f1e183]:
+          - article [ref=f1e184]:
+            - 'button "Open case study: Trueman Sailor" [ref=f1e185]':
+              - generic [ref=f1e186]:
+                - generic [ref=f1e188]:
+                  - img "Trueman Sailor screenshot 1"
+                  - img "Trueman Sailor screenshot 2"
+                  - img "Trueman Sailor screenshot 3"
+                  - img "Trueman Sailor screenshot 4"
+                  - img "Trueman Sailor screenshot 5"
+                  - img "Trueman Sailor screenshot 6"
+                  - img "Trueman Sailor screenshot 7"
+                  - img "Trueman Sailor screenshot 8"
+                  - img "Trueman Sailor screenshot 9"
+                  - img "Trueman Sailor screenshot 10"
+                - generic [ref=f1e189]: MERN · APPOINTMENT BOOKING PLATFORM
+                - generic [ref=f1e190]: Case study →
+              - generic [ref=f1e191]:
+                - heading "Trueman Sailor" [level=4] [ref=f1e192]
+                - generic [ref=f1e193]: "2025"
+              - paragraph [ref=f1e194]: Full-stack MERN clothing & fashion e-commerce storefront with dynamic catalog browsing, interactive cart, and responsive UI.
+          - article [ref=f1e195]:
+            - 'button "Open case study: Zaiqa" [ref=f1e196]':
+              - generic [ref=f1e197]:
+                - generic [ref=f1e199]:
+                  - img "Zaiqa screenshot 1"
+                  - img "Zaiqa screenshot 2"
+                  - img "Zaiqa screenshot 3"
+                  - img "Zaiqa screenshot 4"
+                  - img "Zaiqa screenshot 5"
+                  - img "Zaiqa screenshot 6"
+                  - img "Zaiqa screenshot 7"
+                  - img "Zaiqa screenshot 8"
+                  - img "Zaiqa screenshot 9"
+                  - img "Zaiqa screenshot 10"
+                - generic [ref=f1e200]: MERN · Food Ordering Platform
+                - generic [ref=f1e201]: Case study →
+              - generic [ref=f1e202]:
+                - heading "Zaiqa" [level=4] [ref=f1e203]
+                - generic [ref=f1e204]: "2025"
+              - paragraph [ref=f1e205]: Feature-rich culinary & restaurant ordering platform with interactive menus, order processing, and dynamic food category filtering.
+          - article [ref=f1e206]:
+            - 'button "Open case study: Real State Agent" [ref=f1e207]':
+              - generic [ref=f1e208]:
+                - generic [ref=f1e210]:
+                  - img "Real State Agent screenshot 1"
+                  - img "Real State Agent screenshot 2"
+                  - img "Real State Agent screenshot 3"
+                  - img "Real State Agent screenshot 4"
+                - generic [ref=f1e211]: MERN · Real Estate Portal
+                - generic [ref=f1e212]: Case study →
+              - generic [ref=f1e213]:
+                - heading "Real State Agent" [level=4] [ref=f1e214]
+                - generic [ref=f1e215]: "2025"
+              - paragraph [ref=f1e216]: Real estate web platform enabling clients to explore property listings, filter by criteria, and connect with property agents directly.
+      - generic [ref=f1e217]:
+        - generic [ref=f1e218]:
+          - heading "Data — ML & analytics" [level=3] [ref=f1e219]
+          - generic [ref=f1e221]: 3 projects
+        - generic [ref=f1e222]:
+          - article [ref=f1e223]:
+            - 'button "Open case study: Churn Horizon" [ref=f1e224]':
+              - generic [ref=f1e225]:
+                - img "Churn Horizon preview artwork" [ref=f1e227]
+                - generic [ref=f1e238]: ML · Customer retention
+                - generic [ref=f1e239]: Case study →
+              - generic [ref=f1e240]:
+                - heading "Churn Horizon" [level=4] [ref=f1e241]
+                - generic [ref=f1e242]: "2025"
+              - paragraph [ref=f1e243]: Gradient-boosted churn model (scikit-learn) that lifted retention-campaign precision from 31% to 74% for a SaaS client.
+          - article [ref=f1e244]:
+            - 'button "Open case study: Freightcast" [ref=f1e245]':
+              - generic [ref=f1e246]:
+                - img "Freightcast preview artwork" [ref=f1e248]
+                - generic [ref=f1e259]: ML · Demand forecasting
+                - generic [ref=f1e260]: Case study →
+              - generic [ref=f1e261]:
+                - heading "Freightcast" [level=4] [ref=f1e262]
+                - generic [ref=f1e263]: "2024"
+              - paragraph [ref=f1e264]: Time-series forecasting for a logistics fleet — 22% reduction in idle vehicle hours across three cities.
+          - article [ref=f1e265]:
+            - 'button "Open case study: Signal & Noise" [ref=f1e266]':
+              - generic [ref=f1e267]:
+                - img "Signal & Noise preview artwork" [ref=f1e269]
+                - generic [ref=f1e280]: NLP · Review intelligence
+                - generic [ref=f1e281]: Case study →
+              - generic [ref=f1e282]:
+                - heading "Signal & Noise" [level=4] [ref=f1e283]
+                - generic [ref=f1e284]: "2023"
+              - paragraph [ref=f1e285]: NLP pipeline that clusters 2M+ product reviews into actionable themes, with sentiment drift tracking per release.
+    - generic [ref=f1e286]:
+      - generic [ref=f1e287]:
+        - paragraph [ref=f1e289]: Experience
+        - heading "The route so far." [level=2] [ref=f1e291]
+      - list [ref=f1e294]:
+        - listitem [ref=f1e295]:
+          - paragraph [ref=f1e296]: 2024 — Present
+          - heading "Senior Full-Stack & ML Engineer" [level=3] [ref=f1e297]
+          - paragraph [ref=f1e298]: Independent / Consulting
+          - paragraph [ref=f1e299]: "End-to-end delivery for product teams: MERN platforms with embedded ML services — forecasting, scoring, and search."
+        - listitem [ref=f1e300]:
+          - paragraph [ref=f1e301]: 2022 — 2024
+          - heading "Data Scientist" [level=3] [ref=f1e302]
+          - paragraph [ref=f1e303]: Northline Analytics
+          - paragraph [ref=f1e304]: Owned churn, demand, and pricing models from notebook to production. Built the internal feature store and model-monitoring stack.
+        - listitem [ref=f1e305]:
+          - paragraph [ref=f1e306]: 2020 — 2022
+          - heading "Full-Stack Developer" [level=3] [ref=f1e307]
+          - paragraph [ref=f1e308]: Studio Meridian
+          - paragraph [ref=f1e309]: Shipped client platforms on the MERN stack — e-commerce, dashboards, and realtime tools — with a focus on performance budgets.
+        - listitem [ref=f1e310]:
+          - paragraph [ref=f1e311]: "2024"
+          - heading "BS Computer Science" [level=3] [ref=f1e312]
+          - paragraph [ref=f1e313]: Graduated with distinction
+          - paragraph [ref=f1e314]: Thesis on applied machine learning for time-series problems. Fell for the overlap of interfaces and inference; never looked back.
+    - generic [ref=f1e315]:
+      - paragraph [ref=f1e316]: Contact
+      - heading "Have a product that needs both halves?" [level=2] [ref=f1e317]:
+        - generic [aria-hidden] [ref=f1e318]:
+          - generic [ref=f1e319]: Have
+          - generic [ref=f1e320]: a
+          - generic [ref=f1e321]: product
+          - generic [ref=f1e322]: that
+          - generic [ref=f1e323]: needs
+          - generic [ref=f1e324]: both
+          - generic [ref=f1e325]: halves?
+      - generic [ref=f1e326]:
+        - generic [ref=f1e327]:
+          - generic [ref=f1e328]:
+            - textbox "Your name" [ref=f1e329]:
+              - /placeholder: Name
+            - generic: Your name
+          - generic [ref=f1e330]:
+            - textbox "Email address" [ref=f1e331]:
+              - /placeholder: Email
+            - generic: Email address
+          - generic [ref=f1e332]:
+            - textbox "What are you building?" [ref=f1e333]:
+              - /placeholder: Message
+            - generic: What are you building?
+          - button "Send message" [ref=f1e334]
+          - paragraph [ref=f1e335]: Message saved — I'll reply within a day.
+        - complementary [ref=f1e336]:
+          - generic [ref=f1e337]:
+            - paragraph [ref=f1e338]: Email
+            - link "dev.ranausman@gmail.com" [ref=f1e339]:
+              - /url: mailto:dev.ranausman@gmail.com
+          - generic [ref=f1e340]:
+            - paragraph [ref=f1e341]: Based in
+            - paragraph [ref=f1e342]: Lahore, PK — working worldwide
+          - generic [ref=f1e343]:
+            - paragraph [ref=f1e344]: Availability
+            - paragraph [ref=f1e345]: Booking projects for Q4 2026.
+  - contentinfo [ref=f1e346]:
+    - generic [ref=f1e347]:
+      - paragraph [ref=f1e348]: Rana Muhammad Usman.
+      - navigation "Social links" [ref=f1e349]:
+        - link "GitHub" [ref=f1e350]:
+          - /url: https://github.com/devRanaUsman
+        - link "LinkedIn" [ref=f1e351]:
+          - /url: https://www.linkedin.com/creator/monetization/
+      - paragraph [ref=f1e352]: © 2026 — Built with React, GSAP & three.js
